@@ -29,11 +29,11 @@ Art:
 ** All of these assets are free and royalty-free.
 
 Some fun:
-Player speed up
-Opponent slow down
-Player invincible
-Player heals
-Enemy shoot homing or just regular
+1. Player speed up
+2. Opponent slow down
+3. Player invincible
+4. Player heals
+5. Enemy shoot homing or just regular
 
 Expected to complete in the future:
 * Player Ship Assets
