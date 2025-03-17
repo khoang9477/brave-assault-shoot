@@ -9,6 +9,7 @@ Audio:
 * Player Taking Damage (2 types)
 * Enemy Shoot (2 types)
 * Player Death
+* Player Respawn
 * Collect Power Up
 * Power Up Expire
 
